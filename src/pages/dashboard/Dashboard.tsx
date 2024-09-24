@@ -38,7 +38,7 @@ export default function Dashboard(props: { disableCustomTheme?: boolean }) {
           component="main"
           sx={(theme) => ({
             flexGrow: 1,
-            backgroundColor: alpha(theme.palette.background.default, 1), // Just use theme.palette.background.default
+            backgroundColor: alpha(theme.palette.background.default, 1),
             overflow: "auto",
           })}
         >
