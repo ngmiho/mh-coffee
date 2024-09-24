@@ -1,5 +1,6 @@
 {
   "name": "material-ui-vite-ts",
+  "homepage": "https://ngmiho.github.io/mh-coffee",
   "private": true,
   "version": "5.0.0",
   "type": "module",
@@ -19,7 +20,8 @@
     "@mui/x-tree-view": "^7.18.0",
     "dayjs": "^1.11.13",
     "react": "latest",
-    "react-dom": "latest"
+    "react-dom": "latest",
+    "react-router-dom": "^6.26.2"
   },
   "devDependencies": {
     "@types/react": "latest",
